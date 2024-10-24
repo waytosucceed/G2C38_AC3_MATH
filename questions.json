@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Alice prepared trays of cookies. Which expression represents (3 + 3 + 3 + 3)?",
+        "options": [
+            "3 × 2",
+            "3 × 3",
+            "3 × 4",
+            "3 × 3"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Alice baked muffins in batches. Which expression equals (4 + 4 + 4)?",
+        "options": [
+            "4 × 2",
+            "4 × 3",
+            "4 × 4",
+            "4 × 5"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Alice placed cupcakes on 5 trays. Which expression represents (5 + 5 + 5 + 5 + 5)?",
+        "options": [
+            "5 × 3",
+            "5 × 4",
+            "5 × 5",
+            "5 × 2"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Alice poured drinks into cups. Which expression equals (2 + 2 + 2 + 2 + 2)?",
+        "options": [
+            "2 × 4",
+            "2 × 5",
+            "2 × 6",
+            "2 × 3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Alice packed 6 cookies in 4 boxes. Which expression equals (6 + 6 + 6 + 6)?",
+        "options": [
+            "6 × 4",
+            "6 × 5",
+            "6 × 6",
+            "6 × 3"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Alice served 5 plates of sandwiches. Which expression equals (7 + 7 + 7 + 7 + 7)?",
+        "options": [
+            "7 × 4",
+            "7 × 5",
+            "7 × 6",
+            "7 × 3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Alice placed pies on the trays. Which expression represents 3 x 6?",
+        "options": [
+            "3 + 3 + 3 + 3 + 3 + 3",
+            "3 + 3 + 3 + 3 + 3",
+            "3 + 3 + 3 + 3",
+            "3 + 3 + 3"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Alice made cakes. Which expression represents <br>(8 x 5)?",
+        "options": [
+            "8 + 8 + 8",
+            "8 + 8 + 8 + 8",
+            "8 + 8",
+            "8 + 8 + 8 + 8 + 8"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Alice gave 4 customers 2 cookies each. Which expression represents <br>(2 + 2 + 2 + 2)?",
+        "options": [
+            "2 × 3",
+            "2 × 6",
+            "2 × 5",
+            "2 × 4"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Alice set 6 cups on each of 3 tables. Which expression represents (6 + 6 + 6)?",
+        "options": [
+            "6 × 3",
+            "6 × 2",
+            "6 × 4",
+            "6 × 5"
+        ],
+        "correct": 0
+    }
+]
